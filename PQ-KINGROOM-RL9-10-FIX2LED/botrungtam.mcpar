@@ -1,0 +1,98 @@
+[DEVICE]
+Name=STM32F103VC
+Clock=72000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=botrungtam.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[EEPROM_DEFINITION]
+Value=
+[EXPANDED_NODES]
+Count=0
+[FILES]
+Count=1
+File0=botrungtam.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=5
+File0=botrungtam.c
+File1=main.h
+File2=init.h
+File3=__EthEnc28j60.h
+File4=init.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=26
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\defs\
+Path1=C:\Users\Lenovo\Desktop\Backup-THANG4-2018\THANH YEN HOTEL PQ\PQ-KINGROOM-RL9-10-FIX2LED\
+Path2=C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-KINGROOM-doirelay -new\
+Path3=C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-KINGROOM-doirelay\
+Path4=C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-KINGROOM-FIXMASTER\
+Path5=C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-KINGROOM\
+Path6=C:\Users\Lenovo\Desktop\thang 12\evegreen-timeout-3tieng\EGREEN-L2(76-17-02)(IP122)DIM-TOG-TIME-3h\
+Path7=C:\Users\Lenovo\Desktop\thang 12\evegreen-timeout-3tieng\EGREEN-L1(76-17-01)(IP121)DIM-TOG-TIME-3h\
+Path8=C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-L1(76-17-01)(IP121)DIM-TOG-timeout\
+Path9=C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-L4(76-17-04)(IP124)DIM-TOG-timeout\
+Path10=C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-TRET(76-17-00)(IP120) DIMvaRL-TOG-timeout\
+Path11=C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-TRET(76-17-00)(IP120)caDIMvaRL -TOGGLE - Copy\
+Path12=C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-TRET(76-17-00)(IP120)caDIMvaRL -TOGGLE\
+Path13=C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-LAUtret (00-14-A5-76-17-00)(IP120)caDIMvaRL\
+Path14=C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-LAUtret (00-14-A5-76-17-00)(IP120)\
+Path15=C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-LAU4 (00-14-A5-76-17-04)(IP124)\
+Path16=C:\Users\Lenovo\Desktop\thang 12\T12- (HK-HN) - evergreen - LAU4\
+Path17=C:\Users\Lenovo\Desktop\thang 12\T12-Dim-flasIP-key-rs485(HK-HN) - evergreen\
+Path18=C:\Users\Lenovo\Desktop\thang 12\T12-Dim-flasIP-key-rs485(HK-Hanoi)\
+Path19=C:\Users\Lenovo\Desktop\THANG 11\project SKYVILLA\T11-testp-keyc-rs485(HK)\
+Path20=C:\Users\Lenovo\Desktop\BACKUP_T9-MASTERTEST\T9-testport-keycard-rs485(HONGKONG)\
+Path21=C:\Users\Lenovo\Desktop\BACKUP_T9-MASTERTEST\BACKUP_T9-testport-keycard-rs485(ok AAAA)\
+Path22=C:\Users\Lenovo\Desktop\Master\
+Path23=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\
+Path24=C:\Users\Luong Hao Dan\Desktop\Master\
+Path25=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\
+[HEADER_PATH]
+Count=1
+Path0=C:\Users\Luong Hao Dan\Desktop\Master\
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=13
+File0=C_Math
+File1=C_Stdlib
+File2=SPI
+File3=SPI_Ethernet
+File4=SPI_Ethernet_24j600
+File5=Sprintf
+File6=Sprinti
+File7=Sprintl
+File8=C_Type
+File9=C_String
+File10=Conversions
+File11=FLASH
+File12=Button
+[EXPANDED NODES]
+Node1=Sources
+Node2=Output Files
+Count=2
+[PROGRAMMER_OPTIONS]
+Value=SWD
+[PROGRAMMER_TYPE]
+Value=mE

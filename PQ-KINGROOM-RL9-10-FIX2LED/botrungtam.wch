@@ -1,0 +1,7 @@
+<WCH v="2">
+  <item n="GPIOE_IDR" r="2" s="False" e="False" i="93"/>
+  <item n="GPIOE_ODR" r="2" s="False" e="False" i="94"/>
+  <item n="GPIOC_ODR" r="2" s="False" e="False" i="78"/>
+  <item n="GPIOC_CRH" r="2" s="False" e="False" i="76"/>
+  <item n="GPIOA_CRL" r="2" s="False" e="False" i="59"/>
+</WCH>
