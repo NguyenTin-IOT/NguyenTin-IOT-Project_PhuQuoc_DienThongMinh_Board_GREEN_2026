@@ -1,0 +1,33 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F103VC -LHF -DL -SSA -O11111114 -fo72 -N"C:\Users\Lenovo\Desktop\Backup-THANG4-2018\THANH YEN HOTEL PQ\PQ-TWINROOM-20msRL9-10-FIX2LED\botrungtam.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\defs\" -SP"C:\Users\Lenovo\Desktop\Backup-THANG4-2018\THANH YEN HOTEL PQ\PQ-TWINROOM-20msRL9-10-FIX2LED\" -SP"C:\Users\Lenovo\Desktop\THANG3-2018\PQ-TWINROOM-20msRL9-10-FIX2LED\" -SP"C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-TWINROOM-20ms-RL9-10-END\" -SP"C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-TWINROOM-100msSCAN\" -SP"C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-TWINROOM- 40msSCAN\" -SP"C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-TWINROOM- FIXPORT4-6\" -SP"C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-TWINROOM- FIX\" -SP"C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-TWINROOM- V1\" -SP"C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-KINGROOM-FIXMASTER\" -SP"C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-KINGROOM\" -SP"C:\Users\Lenovo\Desktop\thang 12\evegreen-timeout-3tieng\EGREEN-L2(76-17-02)(IP122)DIM-TOG-TIME-3h\" -SP"C:\Users\Lenovo\Desktop\thang 12\evegreen-timeout-3tieng\EGREEN-L1(76-17-01)(IP121)DIM-TOG-TIME-3h\" -SP"C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-L1(76-17-01)(IP121)DIM-TOG-timeout\" -SP"C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-L4(76-17-04)(IP124)DIM-TOG-timeout\" -SP"C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-TRET(76-17-00)(IP120) DIMvaRL-TOG-timeout\" -SP"C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-TRET(76-17-00)(IP120)caDIMvaRL -TOGGLE - Copy\" -SP"C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-TRET(76-17-00)(IP120)caDIMvaRL -TOGGLE\" -SP"C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-LAUtret (00-14-A5-76-17-00)(IP120)caDIMvaRL\" -SP"C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-LAUtret (00-14-A5-76-17-00)(IP120)\" -SP"C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-LAU4 (00-14-A5-76-17-04)(IP124)\" -SP"C:\Users\Lenovo\Desktop\thang 12\T12- (HK-HN) - evergreen - LAU4\" -SP"C:\Users\Lenovo\Desktop\thang 12\T12-Dim-flasIP-key-rs485(HK-HN) - evergreen\" -SP"C:\Users\Lenovo\Desktop\thang 12\T12-Dim-flasIP-key-rs485(HK-Hanoi)\" -SP"C:\Users\Lenovo\Desktop\THANG 11\project SKYVILLA\T11-testp-keyc-rs485(HK)\" -SP"C:\Users\Lenovo\Desktop\BACKUP_T9-MASTERTEST\T9-testport-keycard-rs485(HONGKONG)\" -SP"C:\Users\Lenovo\Desktop\BACKUP_T9-MASTERTEST\BACKUP_T9-testport-keycard-rs485(ok AAAA)\" -SP"C:\Users\Lenovo\Desktop\Master\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\" -SP"C:\Users\Luong Hao Dan\Desktop\Master\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" -IP"C:\Users\Luong Hao Dan\Desktop\Master\" "botrungtam.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_101_102_103.emcl" "__Lib_GPIO_32F10x_Defs.emcl" "__Lib_GPIO_32F10x.emcl" "__Lib_CType.emcl" "__Lib_CString.emcl" "__Lib_CStdlib.emcl" "__Lib_CMath.emcl" "__Lib_Conversions.emcl" "__Lib_Sprintf.emcl" "__Lib_Sprinti.emcl" "__Lib_Sprintl.emcl" "__Lib_Button.emcl" "__Lib_FLASH_32F10x.emcl" "__Lib_SPI_123.emcl" "__Lib_EthEnc28j60.emcl" "__Lib_EthEnc24j600.emcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-TWINROOM- 40msSCAN'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-TWINROOM- FIX'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-TWINROOM- V1'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\PHUQUOC\PHUQUOC-KINGROOM'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-L1(76-17-01)(IP121)DIM-TOG-timeout'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-L4(76-17-04)(IP124)DIM-TOG-timeout'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-TRET(76-17-00)(IP120) DIMvaRL-TOG-timeout'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-TRET(76-17-00)(IP120)caDIMvaRL -TOGGLE - Copy'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-TRET(76-17-00)(IP120)caDIMvaRL -TOGGLE'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-LAUtret (00-14-A5-76-17-00)(IP120)caDIMvaRL'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-LAUtret (00-14-A5-76-17-00)(IP120)'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\EVERGREEN-LAU4 (00-14-A5-76-17-04)(IP124)'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\T12- (HK-HN) - evergreen - LAU4'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\T12-Dim-flasIP-key-rs485(HK-HN) - evergreen'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Lenovo\Desktop\thang 12\T12-Dim-flasIP-key-rs485(HK-Hanoi)'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Luong Hao Dan\Desktop\Master'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Luong Hao Dan\Desktop\Master'	 
+diagnostics: 0	122	Compilation Started	init.h
+hint: 0	1004	interrupt handler (timer1_isr at 0x0029)	botrungtam.c
+hint: 0	1004	interrupt handler (uart4_rx at 0x0044)	botrungtam.c
+diagnostics: 1352	123	Compiled Successfully	botrungtam.c
+hint: 142	1164	Variable 'ipWord' has been eliminated by optimizer	botrungtam.c
+hint: 143	1164	Variable 'pos' has been eliminated by optimizer	botrungtam.c
+hint: 726	1164	Variable 'shift' has been eliminated by optimizer	botrungtam.c
+diagnostics: 0	127	All files Compiled in 2964 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 155   Dynamic RAM (bytes): 48993	Static RAM (bytes): 155   Dynamic RAM (bytes): 48993
+hint: 0	1144	Used ROM (bytes): 6191 (2%)  Free ROM (bytes): 255953 (98%)	Used ROM (bytes): 6191 (2%)  Free ROM (bytes): 255953 (98%)
+diagnostics: 0	125	Project Linked Successfully	botrungtam.mcpar
+diagnostics: 0	128	Linked in 920 ms	 
+diagnostics: 0	129	Project 'botrungtam.mcpar' completed: 4352 ms	 
+diagnostics: 0	103	Finished successfully: 25 Apr 2018, 11:04:13	botrungtam.mcpar
